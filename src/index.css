@@ -1,0 +1,29 @@
+body {
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  background-color: darkslategray;
+}
+
+h1 {
+  font-weight: 600;
+  color: lightpink;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#btn {
+  background-color: lightseagreen;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 14px;
+  border-radius: 40px;
+  border: none;
+  width: 150px;
+  height: 50px;
+}
+
+#text {
+  color: white;
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
